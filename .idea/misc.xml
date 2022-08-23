@@ -4,10 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/drawable-v24/bs_header.xml" value="0.1805" />
+        <entry key="..\:/Program_Files/chpt2/app/src/main/res/drawable-v24/buttonwhite.xml" value="0.163" />
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/drawable-v24/card.xml" value="0.1805" />
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Program_Files/chpt2/app/src/main/res/drawable-v24/topup_header.xml" value="0.163" />
+        <entry key="..\:/Program_Files/chpt2/app/src/main/res/drawable-v24/topupbg.xml" value="0.163" />
+        <entry key="..\:/Program_Files/chpt2/app/src/main/res/drawable-v24/topupbgwhite.xml" value="0.163" />
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/Program_Files/chpt2/app/src/main/res/layout/activity_main.xml" value="0.8" />
+        <entry key="..\:/Program_Files/chpt2/app/src/main/res/drawable/rounded.xml" value="0.163" />
+        <entry key="..\:/Program_Files/chpt2/app/src/main/res/layout/activity_main.xml" value="0.32444959443800697" />
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/layout/fragment_first.xml" value="0.1" />
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/layout/fragment_second.xml" value="0.1" />
@@ -19,6 +24,7 @@
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/layout/task.xml" value="0.264" />
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/layout/task2.xml" value="0.136" />
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/layout/tugas_1.xml" value="0.152" />
+        <entry key="..\:/Program_Files/chpt2/app/src/main/res/layout/tugas_2.xml" value="0.264" />
         <entry key="..\:/Program_Files/chpt2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1245" />
       </map>
     </option>
