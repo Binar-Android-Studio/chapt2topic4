@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<!--  text  -->
+    <TextView
+        android:textColor="@color/purple_200"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hallo"/>
+<!--  button  -->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BUTTON 1"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/black"/>
+
+<!-- Button 2 -->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUTTON 1"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/black"/>
+
+<!--  Edit Text  -->
+    <EditText
+        android:text="input username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+<!-- check box  -->
+    <CheckBox
+        android:text="hobi makan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <CheckBox
+        android:text="hobi minum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+<!--  Radio Button  -->
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:checked="true"
+            android:text="laki laki"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <RadioButton
+            android:text="peremPUAN"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RadioGroup>
+    <ImageView
+        android:src="@drawable/hand1"
+        android:layout_width="200px"
+        android:layout_height="200px"/>
+
+    <ImageButton
+        android:src="@drawable/ic_launcher_background"
+        android:layout_width="200px"
+        android:layout_height="200px"/>
+
+    <ProgressBar
+        android:layout_width="200px"
+        android:layout_height="200px"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

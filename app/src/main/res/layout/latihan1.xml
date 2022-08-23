@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:text="btn 1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="btn 2"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"/>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_marginLeft="10px"
+                android:text="btn 3"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"/>
+            <Button
+                android:layout_marginLeft="10px"
+                android:text="btn 5"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <Button
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20px"
+            android:text="btn 4" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="btn 6" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="satu"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:text="dua"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:text="tiga"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <Button
+            android:text="btn 7"
+            android:layout_width="130dp"
+            android:layout_height="match_parent"/>
+        <LinearLayout
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Hobimu ?"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"/>
+            <CheckBox
+                android:text="Bola"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"/>
+            <CheckBox
+                android:text="masak"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"/>
+            <CheckBox
+                android:text="bubuk"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
